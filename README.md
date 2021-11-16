@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @13488912466
+- 👋 Hi, I’m @Richard Yang
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning Machine learning and Computer vision
 - 💞️ I’m looking to collaborate on deep learning
